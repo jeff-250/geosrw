@@ -1,0 +1,4 @@
+ 
+# geosrw module
+
+::: geosrw.geosrw
